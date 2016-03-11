@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-11T13:37:31.925Z'
-dateModified: '2016-03-11T13:31:26.919Z'
+datePublished: '2016-03-11T13:57:33.698Z'
+dateModified: '2016-03-11T13:37:41.152Z'
 title: 'smallbeer: a blog about the art and craft of homebrewing'
 author: []
 sourcePath: _posts/2016-03-11-smallbeer-a-blog-about-the-art-and-craft-of-homebrewing.md
