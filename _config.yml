@@ -2,6 +2,7 @@ name: small beer
 favicon: null
 layout_spectrum: 0.25802
 typography_spectrum: 0.28105
+title: 'smallbeer: a blog about the art & craft of homebrewing'
 cta:
   domain: null
   bucket: null
