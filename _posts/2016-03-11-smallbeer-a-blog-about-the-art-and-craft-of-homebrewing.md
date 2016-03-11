@@ -5,19 +5,19 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: 'smallbeer: a blog about the art and craft of homebrewing'
-datePublished: '2016-03-11T13:27:41.407Z'
-dateModified: '2016-03-11T13:27:24.256Z'
-title: ''
+description: ''
+datePublished: '2016-03-11T13:37:31.925Z'
+dateModified: '2016-03-11T13:31:26.919Z'
+title: 'smallbeer: a blog about the art and craft of homebrewing'
 author: []
+sourcePath: _posts/2016-03-11-smallbeer-a-blog-about-the-art-and-craft-of-homebrewing.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-11-smallbeer-a-blog-about-the-art-and-craft-of-homebrewing.md
-published: true
 url: smallbeer-a-blog-about-the-art-and-craft-of-homebrewing/index.html
 _type: Article
 
